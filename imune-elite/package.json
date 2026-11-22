@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-web-imune-elite",
+  "version": "1.0.0",
+  "description": "Versão alternativa educativa do WhatsApp Web com foco em segurança defensiva (Anti-Trava, Anti-Flood, Anti-Delete, Anti-Edit e WebRTC).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "whatsapp-web",
+    "webrtc",
+    "websocket",
+    "security",
+    "school-project"
+  ],
+  "license": "MIT"
+}
